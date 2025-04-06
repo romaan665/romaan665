@@ -1,6 +1,6 @@
 ### Hey there 👋, I'm Romaan!
 
-- BSc Data Science student passionate about AI, ML & mental wellness  
+- BSc Data Science student passionate about AI, ML & Data science 
 - Built a movie recommender, self-care website & more  
 - Exploring internships & leveling up my skills  
 - Let’s connect on [LinkedIn](https://www.linkedin.com/in/umm-e-romaan-shaikh-336921287)
