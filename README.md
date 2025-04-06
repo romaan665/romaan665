@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hey there 👋, I'm Romaan!
 
+- BSc Data Science student passionate about AI, ML & mental wellness  
+- Built a movie recommender, self-care website & more  
+- Exploring internships & leveling up my skills  
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/umm-e-romaan-shaikh-336921287)
+
+Always learning, always growing!
 <!--
 **romaan665/romaan665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
